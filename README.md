@@ -1,5 +1,5 @@
 # Hola 👋 soy Alexis Abarca
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abarca-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abarca-dev/) 
 ## 💫 Sobre mi:
 - Tecnico en sistemas 🖥️🔧
 - Aspirante a Desarrollador Backend 👨‍💻🌐
